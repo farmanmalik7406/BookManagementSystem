@@ -1,0 +1,15 @@
+E:\sourcemash\BookManagementSystem\obj\Debug\net6.0\BookManagementSystem.csproj.AssemblyReference.cache
+E:\sourcemash\BookManagementSystem\obj\Debug\net6.0\BookManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\sourcemash\BookManagementSystem\obj\Debug\net6.0\BookManagementSystem.AssemblyInfoInputs.cache
+E:\sourcemash\BookManagementSystem\obj\Debug\net6.0\BookManagementSystem.AssemblyInfo.cs
+E:\sourcemash\BookManagementSystem\obj\Debug\net6.0\BookManagementSystem.csproj.CoreCompileInputs.cache
+E:\sourcemash\BookManagementSystem\bin\Debug\net6.0\BookManagementSystem.exe
+E:\sourcemash\BookManagementSystem\bin\Debug\net6.0\BookManagementSystem.deps.json
+E:\sourcemash\BookManagementSystem\bin\Debug\net6.0\BookManagementSystem.runtimeconfig.json
+E:\sourcemash\BookManagementSystem\bin\Debug\net6.0\BookManagementSystem.dll
+E:\sourcemash\BookManagementSystem\bin\Debug\net6.0\BookManagementSystem.pdb
+E:\sourcemash\BookManagementSystem\obj\Debug\net6.0\BookManagementSystem.dll
+E:\sourcemash\BookManagementSystem\obj\Debug\net6.0\refint\BookManagementSystem.dll
+E:\sourcemash\BookManagementSystem\obj\Debug\net6.0\BookManagementSystem.pdb
+E:\sourcemash\BookManagementSystem\obj\Debug\net6.0\BookManagementSystem.genruntimeconfig.cache
+E:\sourcemash\BookManagementSystem\obj\Debug\net6.0\ref\BookManagementSystem.dll
